@@ -1,0 +1,15 @@
+I am writing to express my interest in the [position] position open at [company]. While visiting your careers page, I came to know about the opening for the position above. After reading your job description, I found a close relation between my skills and your requirements. I am currently pursuing my Master’s degree in Computer Science at NC State University with a GPA of 3.61/4.00, started in the fall of 2015. I was working with Accenture India as an Associate Software Engineer for past one and a half years before joining my master's program. Starting this summer, I started working as a Student Programmer for The Graduate School, NC State University. I am very much passionate about software design and development.
+
+I would bring the following attributes to [company] in the role of a [position]:
+• 1.5 years professional experience as an SAP ABAP developer.
+• The experience of developing web applications as well as REST APIs using Java and Ruby on Rails, HTML, JavaScript(Angular, NodeJS) etc. and hosted on Amazon AWS, Heroku etc. 
+• Knowledge of various DBMS like MySQL, IBM DB2 etc.
+• Knowledge of building hybrid applications in Ionic framework(Javascript)
+• Knowledge of writing scripts in Ruby and Python.
+
+As a proactive and enthusiastic individual, I would welcome an opportunity to discuss my software engineering capabilities with you. You can find my GitHub profile on www.github.com/moharnab123saikia. Please get in contact with me if you require any additional information.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Sincerely,
+Moharnab Saikia
